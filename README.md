@@ -1,7 +1,7 @@
 # A modern YouTube clone
-<img src='image1' />
-<img src='image1' />
-<img src='image1' />
+<img src='image1.png' />
+<img src='image2.png' />
+<img src='image3.png' />
 
 
 # Getting Started with Create React App
