@@ -1,3 +1,9 @@
+# A modern YouTube clone
+<img src='image1' />
+<img src='image1' />
+<img src='image1' />
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
