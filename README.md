@@ -1,7 +1,8 @@
 # A modern YouTube clone
-<img src='image1.png' />
-<img src='image2.png' />
-<img src='image3.png' />
+## Created with React.js and Material UI using an API
+<img src='image1.png' height='500px' wdidth='500px'/>
+<img src='image2.png' height='500px' wdidth='500px'/>
+<img src='image3.png' height='500px' wdidth='500px'/>
 
 
 # Getting Started with Create React App
